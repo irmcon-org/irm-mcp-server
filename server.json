@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.irmcon/services",
+  "title": "IRM Consulting & Advisory",
+  "description": "vCISO, AI governance and compliance services: catalog, pricing, 8 free tools, live booking.",
+  "version": "1.0.0",
+  "websiteUrl": "https://irmcon.com/",
+  "icons": [
+    {
+      "src": "https://irmcon.com/icons/icon-512x512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.irmcon.com/mcp"
+    }
+  ]
+}
