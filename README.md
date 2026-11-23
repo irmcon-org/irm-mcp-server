@@ -73,3 +73,6 @@ claude mcp add --transport http irm https://mcp.irmcon.com/mcp
 - General: info@irmcon.com
 - Security issues: see https://irmcon.com/.well-known/security.txt
 - Website: https://irmcon.com/
+
+## Listed
+[![Listed on mcpservers.org](https://url.avanan.click/v2/r03/___https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/irmcon-org/irm-mcp-server___.YXYyYzppcm1jb246YTpvOjc4NjY2YWU0NmNkNWQ2NjIzYzdlYjhkZmUwNzNkNTRkOjc6ZmQ3MTo1Njc1ZGQ2MGM4ZTQ2NDk3YzcyZWQ4MDllYmY0ODBhOWZkNDBiZmVhMzY3YjAxN2Y1ZWY1OWZmNDU3MTI3MGQwOnQ6VDpO)
