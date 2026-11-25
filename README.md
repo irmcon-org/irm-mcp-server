@@ -23,7 +23,7 @@ install or run.
 
 | Tool | What it returns |
 |---|---|
-| `list_services` | IRM's 18 services and programs (vCISO, AI governance, GRC, SOC 2, ISO 27001, ISO 42001, CMMC, CPCSC, penetration testing and more), filterable by kind or framework |
+| `list_services` | IRM's 18 services and programs (vCISO, AI governance, GRC, SOC 2, NIST CSF 2.0, ISO 27001, ISO 42001, CMMC, CPCSC, penetration testing and more), filterable by kind or framework |
 | `get_service` | One service: summary, audience, frameworks, published starting price, booking link and related free tool |
 | `list_free_products` | The 9 free, browser-based self-assessment tools, with page and app links |
 | `get_pricing` | Published monthly subscription tiers, plus one service's starting price |
