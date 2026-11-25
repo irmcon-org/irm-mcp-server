@@ -25,7 +25,7 @@ install or run.
 |---|---|
 | `list_services` | IRM's 18 services and programs (vCISO, AI governance, GRC, SOC 2, ISO 27001, ISO 42001, CMMC, CPCSC, penetration testing and more), filterable by kind or framework |
 | `get_service` | One service: summary, audience, frameworks, published starting price, booking link and related free tool |
-| `list_free_products` | The 8 free, browser-based self-assessment tools, with page and app links |
+| `list_free_products` | The 9 free, browser-based self-assessment tools, with page and app links |
 | `get_pricing` | Published monthly subscription tiers, plus one service's starting price |
 | `check_availability` | Live 30-minute consultation slots for the next 1 to 7 days |
 | `create_booking_link` | A single-use Calendly link for a free consultation. The person confirms the booking on Calendly; the tool books nothing and takes no personal data |
